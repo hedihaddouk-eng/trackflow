@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Tracking",
+  "description": "Manufacturing tracking system for industrial production lines with Supervisor and Operator roles, serial number scanning, and Zebra thermal label generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
